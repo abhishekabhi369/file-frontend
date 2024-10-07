@@ -1,0 +1,14 @@
+.not-authorized-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: red;
+  }
+  
+  h1 {
+    color: white;
+    font-size: 3rem;
+    font-family: Arial, sans-serif;
+  }
+  
